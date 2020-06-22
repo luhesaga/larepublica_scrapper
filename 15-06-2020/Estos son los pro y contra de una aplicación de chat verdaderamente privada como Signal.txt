@@ -1,0 +1,46 @@
+Estos son los pro y contra de una aplicación de chat verdaderamente privada como Signal
+
+Signal está diseñado para limitar la información que el servicio de mensajería puede proporcionar a las autoridades
+
+La señal está teniendo un momento. La pandemia generó registros sin precedentes en la aplicación de mensajería cifrada, ya que las personas comenzaron a comunicarse más en línea. Luego, las protestas nacionales por la brutalidad policial provocaron otra ronda de registros. Signal vio alrededor de un millón de descargas en todo el mundo en mayo, según la firma de análisis App Annie.
+Los manifestantes han acudido en masa a la aplicación. Aunque las personas que organizan y participan en protestas están protegidas por la Primera Enmienda, a menudo buscan una comunicación segura, por precaución. Y si tienen problemas legales, Signal está diseñado para limitar la información que el servicio de mensajería puede proporcionar a las autoridades.
+Eso es lo que inicialmente atrajo la privacidad a Signal. En una charla de 2015, el creador de la aplicación, Moxie Marlinspike, declaró : "La privacidad está en su punto más bajo y la vigilancia está en su punto más alto". La señal fue pensada como el antídoto.
+En los años intermedios, la aplicación ha crecido en popularidad, con 32,4 millones de instalaciones, según la firma de análisis de datos Sensor Tower. También se ha convertido en una aplicación de mensajería muy útil, aunque básica. Si bien Signal no es único en su clase , WhatsApp de Facebook Inc. e iMessage de Apple Inc. tienen un cifrado de extremo a extremo similar, los expertos dicen que Signal es el más seguro.
+Si aún no está en Signal, es posible que se pregunte: ¿debería estarlo? Esta guía lo ayudará a responder eso.
+¿Qué es exactamente la señal?
+
+Es una aplicación de mensajería. También es una tecnología: el protocolo de cifrado de Signal es utilizado por plataformas como WhatsApp, y es de código abierto, lo que permite que cualquier investigador de seguridad analice su código en busca de fallas y verifique que el cifrado sea tan seguro como lo afirma Signal.
+¿Cómo funciona el cifrado de extremo a extremo?
+
+El cifrado convierte sus mensajes y llamadas en una cadena de galimatías. Solo el destinatario puede descifrar el mensaje, nadie más, ni siquiera el creador de la aplicación. De hecho, el cifrado de extremo a extremo es tan seguro que ha provocado la ira de los funcionarios del gobierno, quienes dicen que las aplicaciones de mensajería cifradas hacen que sea difícil localizar a los delincuentes.
+Incluso si no eres un criminal o te preocupa la vigilancia del gobierno, hay un fuerte argumento para usar el cifrado. Lo protege de los actores maliciosos interesados ​​en interceptar secretos comerciales o credenciales, así como también en las compañías que desean ofrecerle publicidad personalizada.
+Solo recuerde, el cifrado no impide que el destinatario de un mensaje tome una captura de pantalla o la pase, o que alguien vea sus mensajes al obtener acceso a su teléfono. (Utilice siempre un código de acceso seguro).
+¿Qué puedo hacer en Signal?
+
+Puede enviar mensajes de texto y de audio a personas o grupos, y hacer llamadas de voz o de video de uno a uno a través de Internet o una conexión de datos. Todos los involucrados deben estar en Signal.
+Hay aplicaciones móviles para Android, iPhone y iPad, así como aplicaciones de escritorio para Mac, Windows y Linux. No hay soporte para Chrome OS en Chromebooks.
+Durante el año pasado, la aplicación ha agregado una serie de características divertidas, que incluyen GIF, pegatinas y reacciones emoji. ( Signal Stickers es un gran depósito de diseños creados por la comunidad).
+Recientemente, Signal introdujo una herramienta de desenfoque, que se puede utilizar para ocultar rostros o información confidencial en los documentos. Para usarlo, toque el icono de la cámara desde la página principal de la aplicación. Tome una foto o seleccione una foto de su biblioteca, luego toque el ícono de círculo borroso.
+¿Cómo puedo hacer que los mensajes de Signal sean aún más privados?
+
+Mensajes que desaparecen: selecciona una conversación y toca el nombre de tu contacto. Allí puede establecer un tiempo entre cinco segundos y una semana, después del cual los mensajes vistos se eliminarán automáticamente.
+Medios de visualización única: esta función solo para dispositivos móviles elimina automáticamente una foto o video de una conversación una vez que se ha visto. Desde la página principal de la aplicación, toca el ícono de la cámara. Tome una foto o seleccione una de su biblioteca. En la parte inferior izquierda de la pantalla, toque para cambiar el icono de símbolo de infinito al icono "1x".
+PIN de señal: Esto evita que otra persona registre su número de teléfono en Signal, un ataque conocido como intercambio de SIM . Toque el ícono de su perfil (arriba a la izquierda), luego Privacidad, luego habilite PIN de señal.
+¿Signal es realmente mejor que WhatsApp e iMessage?
+
+Tanto WhatsApp como iMessage ofrecen cifrado de extremo a extremo de forma predeterminada, y es probable que ya use al menos uno de ellos. Entonces, ¿es Signal la aplicación superior? Si y no.
+La misión principal de Signal, la privacidad, es evidente en todo el diseño de la aplicación. Por ejemplo, cuando alguien inicia una videollamada en Signal, su video no se enciende automáticamente cuando contesta. Acepta la llamada y luego enciende su cámara.
+La aplicación tampoco registra mucha información (metadatos) sobre la naturaleza de los mensajes en sí. "Signal hace que sea un punto mantener la menor cantidad de datos posible y al mismo tiempo poder proporcionar servicios", dijo Lujo Bauer, profesor de ciencias de la computación en la Universidad Carnegie Mellon.
+En una publicación reciente en el blog , Marlinspike se jactó de que los únicos datos que el gobierno de EE. UU. Pudo obtener de una citación del gran jurado de 2016 fue la fecha de creación de una cuenta y la fecha del último uso, nada más.
+WhatsApp, por otro lado, rastrea cosas como a quién contactó y cuándo, dijo el profesor Bauer. Una portavoz dijo que Facebook no proporciona datos de WhatsApp a las agencias policiales de manera retroactiva: la compañía solo comparte los datos del registro de transacciones recopilados después de recibir una solicitud legal válida.
+Apple también conserva algunos metadatos de iMessage (también conocido como la aplicación Mensajes). Cuando ingresas un número de teléfono para enviarle un mensaje a alguien, Apple verifica si el número es compatible con iMessage. Una fecha y hora de esa búsqueda, junto con el número de teléfono, se guardan durante 30 días y luego se eliminan. Una portavoz de Apple dijo que Apple no puede determinar si se realizó alguna comunicación, solo si un usuario miró un contacto o inició un iMessage.
+Si bien eso puede no parecer mucho, los metadatos pueden servir fácilmente como evidencia. "El simple hecho de saber quiénes son los contactos de un objetivo puede ampliar una investigación", dijo Mary Fan, profesora de derecho de la Universidad de Washington.
+Las copias de seguridad en la nube, aunque convenientes, son otra vulnerabilidad potencial con aplicaciones populares. Los medios y los mensajes almacenados en la nube no están protegidos por cifrado de extremo a extremo en WhatsApp o iMessage.
+Todos los datos de Signal se almacenan localmente, lo que significa que cuando compra un teléfono nuevo, necesita transferir manualmente sus mensajes antiguos de Signal.
+Debido a que Signal no es propiedad de un gigante tecnológico y está respaldado por una fundación sin fines de lucro, con $ 50 millones del cofundador de WhatsApp y el ex ejecutivo de Facebook Brian Acton, es probable que nunca le muestre anuncios.
+¿Por qué no usaría Signal?
+
+Para empezar, WhatsApp e iMessage tienen muchas más funciones. Por nombrar algunos: el intercambio de ubicación temporal, que es útil para las reuniones y el chat de video grupal, hasta 8 en WhatsApp y 32 en el servicio FaceTime integrado de Apple.
+Signal tampoco tiene la base de usuarios masiva de esas aplicaciones. WhatsApp tiene dos mil millones de usuarios y Apple ha vendido casi dos mil millones de iPhones. Es más probable que sus amigos y familiares utilicen los servicios de mensajería de esas empresas. "A menudo encuentro que lo que sea más conveniente para las personas es lo que es más probable que usen con éxito", dijo el profesor Bauer.
+En otras palabras, WhatsApp e iMessage son aún más privados y seguros que los mensajes de texto SMS simples, y si ahí es donde están sus contactos, siguen siendo una buena opción.
+Hace unos meses, pude convencer a seis de mis amigos más expertos en tecnología, e incluso a mi editor, para que se mudaran a Signal. Al final, solo uno se quedó: mi esposo, Will, quien sabía que estaba escribiendo esta columna.
